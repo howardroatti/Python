@@ -4,7 +4,7 @@ Nesse repositório irei postar highlights de meus aprendizados da Linguagem Pyth
 
 <a href = 'https://github.com/hroatti/Python/blob/master/ScriptDownload.ipynb' >ScriptDownload</a>
 
-Nesse script ensino a realizar o download de um arquivo PDF a partir de um recurso web
+Nesse script ensino a realizar o download de um arquivo PDF a partir de um recurso web. A partir dele é possível criar um WebCrawler ou WebScrapping, dependendo do propósito.
 
 <a href = 'https://github.com/hroatti/Python/blob/master/ExtractTextFromPDF.ipynb'>ExtractTextFromPDF</a>
 
