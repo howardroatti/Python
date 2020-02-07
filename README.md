@@ -9,3 +9,6 @@ Nesse script ensino a realizar o download de um arquivo PDF a partir de um recur
 <a href = 'https://github.com/hroatti/Python/blob/master/ExtractTextFromPDF.ipynb'>ExtractTextFromPDF</a>
 
 Nesse script ensino a realizar a extração do termos existentes em um arquivo PDF. É muito útil para criar uma base de dados para aprendizagem de máquina voltado ao Processamento de Linguagem Natural.
+
+Nesse script ensino a utilizar a biblioteca requests para realizar requisições simples em APIs Rest.
+<a href = "https://github.com/hroatti/Python/blob/master/APIConsumer.ipynb"> ApiConsumer</a>
